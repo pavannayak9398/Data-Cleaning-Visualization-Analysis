@@ -22,9 +22,11 @@ Welcome to my IPL Data Visualization repository! This project dives into the exc
 	
  	-Heatmaps
 
-   -Explore how these visualizations reveal hidden patterns and trends.
+6. Explore how these visualizations reveal hidden patterns and trends.
+
 7. Key Insights & Findings
-  -Observations on match strategies, winning patterns, and standout player performances derived from the data.
+
+   -Observations on match strategies, winning patterns, and standout player performances derived from the data.
 
 # Why This Project?
 This hands-on project helped me enhance my skills in data analysis and storytelling with Python, showcasing the power of data visualization in delivering impactful narratives.
