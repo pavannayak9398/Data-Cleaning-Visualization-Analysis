@@ -1,6 +1,6 @@
-# IPL Data Visualization Project
+# Data Visualization Projects
 
-Welcome to my IPL Data Visualization repository! This project dives into the exciting world of sports data analysis, leveraging Matplotlib and Seaborn to uncover insights from IPL statistics.
+Welcome to my Data Visualization repository! This project dives into the exciting world of sports data analysis, leveraging Matplotlib and Seaborn to uncover insights from IPL statistics.
 
 # What’s Inside?
 
